@@ -1,7 +1,8 @@
-# VSCode
+```gitignore
+# Diretórios de configuração de editor
 .vscode/
 
-# Arquivos do sistema
+# Arquivos do sistema operacional
 .DS_Store
 Thumbs.db
 
@@ -10,3 +11,15 @@ Thumbs.db
 
 # Arquivos temporários
 *.tmp
+*.temp
+
+# Arquivos de cache
+*.cache
+
+# Arquivos gerados pelo sistema
+*.swp
+*.swo
+
+# Pastas de build (se houver)
+bin/
+obj/
