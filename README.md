@@ -38,18 +38,20 @@ Documentar os principais conceitos, comandos e boas práticas relacionadas à cr
 azure-lab-desafio/
 │
 ├── README.md
+├── LICENSE
+├── .gitignore
 ├── resumos/
-│   ├── dicas-gerais.md
-│   ├── entra-id.md
-│   ├── Update entra-id.md
-│   ├── laboratorios-oficiais.md
-│   ├── Update laboratorios-oficiais.md
-│   └── resumo-maquinas-virtuais.md
+│ ├── dicas-gerais.md
+│ ├── entra-id.md
+│ ├── update-entra-id.md
+│ ├── laboratorios-oficiais.md
+│ ├── update-laboratorios-oficiais.md
+│ └── resumo-maquinas-virtuais.md
 └── imagens/
-    ├── Azure-VM-1.png
-    ├── azure-azurevm1.png
-    ├── create-snapshot-button-incremental.png
-    └── instance-details.png
+├── azure-vm-1.png
+├── azure-azurevm1.png
+├── create-snapshot-button-incremental.png
+└── instance-details.png
 ```
 ---
 
