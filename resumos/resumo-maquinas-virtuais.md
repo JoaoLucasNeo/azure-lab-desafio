@@ -16,7 +16,7 @@ Para criar uma VM pelo portal:
    - **Rede:** 🌐 Configure a rede virtual e grupo de segurança.
 5. Revise e clique em **Criar** 🚀 para iniciar a implantação.
 
-![Portal Azure](../imagens/azure-portal.png)
+![Portal Azure](../imagens/VM.png.png)
 
 ---
 
