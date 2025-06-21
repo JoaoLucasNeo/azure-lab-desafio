@@ -39,13 +39,15 @@ azure-lab-desafio/
 │
 ├── README.md
 ├── resumos/
-│   ├── resumo-maquinas-virtuais.md
-│   ├── comandos-powershell.md
-│   └── dicas-gerais.md
+│   ├── dicas-gerais.md
+│   ├── entra-id.md
+│   └── Update entra-id.md
+|   └── laboratorios-oficiais.md
+|   └── Update laboratorios-oficiais.md
+|   └── resumo-maquinas-virtuais.md
 └── imagens/
     └── exemplo-vm.png
 ```
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas
