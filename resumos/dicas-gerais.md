@@ -13,7 +13,7 @@ Ajuda MUITO na hora de identificar e organizar os recursos.
 - `vm-prod-web01` → VM de produção para Web  
 - `vm-dev-db01` → VM de desenvolvimento para banco de dados
 
-![Naming Convention](./imagens/naming-convention.png)
+![Naming Convention](../imagens/naming-convention.png)
 
 ---
 
@@ -30,7 +30,7 @@ Responsavel = JoaoLucasNeo
 
 🔍 Com elas, fica fácil filtrar recursos e até gerar relatórios de custo por projeto.
 
-![Tags no Azure](./imagens/tags-azure.png)
+![Tags no Azure](../imagens/tags-azure.png)
 
 ---
 
@@ -44,7 +44,7 @@ Antes de instalar atualizações, mover dados ou fazer configurações arriscada
 
 💥 Se algo der errado, é só voltar!
 
-![Snapshot](./imagens/snapshot.png)
+![Snapshot](../imagens/snapshot.png)
 
 ---
 
@@ -58,7 +58,7 @@ Azure é poderoso, mas o bolso agradece se você:
 
 📊 Dica de ouro: Use o **Azure Cost Management** para visualizar tudo.
 
-![Custo no Azure](./imagens/azure-cost.png)
+![Custo no Azure](../imagens/azure-cost.png)
 
 ---
 
@@ -72,7 +72,7 @@ Você pode definir **quem pode entrar** (IP, porta, protocolo) e **quem fica de 
 - Permitir porta 22 (SSH) só para IPs específicos
 - Bloquear tudo que não for necessário
 
-![Diagrama NSG](./imagens/nsg-diagrama.png)
+![Diagrama NSG](../imagens/nsg-diagrama.png)
 
 ---
 
@@ -82,6 +82,6 @@ Em vez de expor suas VMs à internet com RDP/SSH:
 
 🔐 Use o **Azure Bastion**, que permite acesso pelo próprio portal, com mais segurança e sem abrir portas públicas!
 
-![Azure Bastion](./imagens/azure-bastion.png)
+![Azure Bastion](../imagens/azure-bastion.png)
 
 ---
