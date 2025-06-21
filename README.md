@@ -41,15 +41,15 @@ azure-lab-desafio/
 ├── resumos/
 │   ├── dicas-gerais.md
 │   ├── entra-id.md
-│   └── Update entra-id.md
-|   └── laboratorios-oficiais.md
-|   └── Update laboratorios-oficiais.md
-|   └── resumo-maquinas-virtuais.md
+│   ├── Update entra-id.md
+│   ├── laboratorios-oficiais.md
+│   ├── Update laboratorios-oficiais.md
+│   └── resumo-maquinas-virtuais.md
 └── imagens/
-    └── Azure-VM-1.png
-    └── azure-azurevm1.png
-    └── create-snapshot-button-incremental.png
-    └── instance-details.png  
+    ├── Azure-VM-1.png
+    ├── azure-azurevm1.png
+    ├── create-snapshot-button-incremental.png
+    └── instance-details.png
 ```
 ---
 
