@@ -19,7 +19,3 @@ Thumbs.db
 # Arquivos gerados pelo sistema
 *.swp
 *.swo
-
-# Pastas de build (se houver)
-bin/
-obj/
