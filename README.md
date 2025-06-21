@@ -8,6 +8,21 @@ Documentar os principais conceitos, comandos e boas práticas relacionadas à cr
 
 ---
 
+## 📚 Índice
+
+1. [Resumo de VMs no Azure](./resumos/resumo-maquinas-virtuais.md)
+2. [Comandos CLI e PowerShell](./resumos/comandos-powershell.md)
+3. [Dicas gerais sobre VMs](./resumos/dicas-gerais.md)
+4. [Microsoft Entra ID](./resumos/entra-id.md)
+5. [Laboratórios oficiais Microsoft](./resumos/laboratorios-oficiais.md)
+6. [Imagens ilustrativas](./imagens/)
+
+## 📎 Links úteis
+- [Portal Azure](https://portal.azure.com)
+- [Microsoft Learn](https://learn.microsoft.com/)
+
+---
+
 ## 📚 Conteúdo
 
 - ✅ Resumo dos principais conceitos sobre VMs no Azure
