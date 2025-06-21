@@ -46,7 +46,10 @@ azure-lab-desafio/
 |   └── Update laboratorios-oficiais.md
 |   └── resumo-maquinas-virtuais.md
 └── imagens/
-    └── exemplo-vm.png
+    └── Azure-VM-1.png
+    └── azure-azurevm1.png
+    └── create-snapshot-button-incremental.png
+    └── instance-details.png  
 ```
 ---
 
